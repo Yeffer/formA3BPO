@@ -38,6 +38,7 @@ class WelcomeController extends Controller {
     public function index() {
         return view('form.formulario');
         //return view('login.login');
+        
     }
     
     public function SearchUser(){	
@@ -109,6 +110,9 @@ class WelcomeController extends Controller {
         $user->certificadoLaboral = $data['certificadoLaboral'];      
         $user->id_RRHH =  Auth::id();
         $user->save();
+        
+        return View('form.formulario');
       
     }
+ 
 }
