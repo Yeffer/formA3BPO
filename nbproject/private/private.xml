@@ -3,17 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/formA3BPO/public/css/demo.css</file>
             <file>file:/C:/xampp/htdocs/formA3BPO/resources/views/app.blade.php</file>
             <file>file:/C:/xampp/htdocs/formA3BPO/public/css/styles.css</file>
-            <file>file:/C:/xampp/htdocs/formA3BPO/resources/views/home.blade.php</file>
-            <file>file:/C:/xampp/htdocs/formA3BPO/app/Http/Controllers/Auth/AuthController.php</file>
-            <file>file:/C:/xampp/htdocs/formA3BPO/server.php</file>
+            <file>file:/C:/xampp/htdocs/formA3BPO/public/js/date.js</file>
             <file>file:/C:/xampp/htdocs/formA3BPO/public/css/app.css</file>
             <file>file:/C:/xampp/htdocs/formA3BPO/resources/views/form/formulario.blade.php</file>
-            <file>file:/C:/xampp/htdocs/formA3BPO/app/Models/DatosUsuario.php</file>
-            <file>file:/C:/xampp/htdocs/formA3BPO/app/User.php</file>
-            <file>file:/C:/xampp/htdocs/formA3BPO/app/Http/Controllers/WelcomeController.php</file>
         </group>
     </open-files>
 </project-private>

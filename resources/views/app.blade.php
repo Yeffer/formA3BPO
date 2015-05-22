@@ -63,10 +63,10 @@
 	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
         <link href='/css/jquery-ui.min.css' rel='stylesheet' type='text/css'>
         <link href='/css/jquery-ui.min.css' rel='stylesheet' type='text/css'>
-        <link href='/css/styles.css' rel='stylesheet' type='text/css'>        
-        <link href='/css/demo.css' rel='stylesheet' type='text/css'>        
+        <link href='/css/styles.css' rel='stylesheet' type='text/css'>                       
         <script src="/js/jquery-ui.min.js"></script>
         <script src="/js/main.js"></script>
+        <script src="/js/date.js"></script>        
         <script src="/js/jFormslider.js"></script>
         
 

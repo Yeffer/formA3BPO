@@ -15,7 +15,7 @@
         <div id="container_demo" >
         <div class="animate form" id="login">
             <form id="Registro" action="/form/save" name="Registro" method='post'> 
-                <ul>
+                <ul class="formulario">
                     <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
                     <li>
                         <h1>Datos Personales</h1> 
@@ -42,7 +42,7 @@
                         </p>                             
                         <p> 
                             <label name="fechaExpedicion" type="text"  data-icon="u">Fecha de Expedición</label>
-                            <input name="data[fechaExpedicion]"   type="text"  id="fechaExpedicion" placeholder="Fecha de Expedición"/>
+                            <input name="data[fechaExpedicion]" readonly type="text"  id="fechaExpedicion" placeholder="Fecha de Expedición"/>
                         </p>
                         <p> 
                             <label name="genero" type="text"  data-icon="u">Genero</label>
