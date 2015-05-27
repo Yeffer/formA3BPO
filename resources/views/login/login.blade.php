@@ -15,7 +15,7 @@
                     <div id="wrapper">
                         <div id="login" class="animate form">
                            <form action="" method="post" class="login"> 
-                                <h1><img src="images/a3bpo.png"/></h1> 
+                                <h1><img src="img/a3bpo.png"/></h1> 
                                 <p> 
                                     <label for="username" name="user" type="text"  data-icon="u" >Usuario</label>
                                     <input <input name="user" type="text" placeholder="mi-email@mail.com"/>
